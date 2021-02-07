@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HACK\\for education\\Additional\\IT and programing\\Projects\\C#\\Bank Managment System\\Bank Managment System\\Bank Managment System.csproj": {}
+  },
+  "projects": {
+    "D:\\HACK\\for education\\Additional\\IT and programing\\Projects\\C#\\Bank Managment System\\Bank Managment System\\Bank Managment System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HACK\\for education\\Additional\\IT and programing\\Projects\\C#\\Bank Managment System\\Bank Managment System\\Bank Managment System.csproj",
+        "projectName": "Bank Managment System",
+        "projectPath": "D:\\HACK\\for education\\Additional\\IT and programing\\Projects\\C#\\Bank Managment System\\Bank Managment System\\Bank Managment System.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\HACK\\for education\\Additional\\IT and programing\\Projects\\C#\\Bank Managment System\\Bank Managment System\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

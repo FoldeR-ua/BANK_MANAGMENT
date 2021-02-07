@@ -1,0 +1,13 @@
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.exe
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.deps.json
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.runtimeconfig.json
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.runtimeconfig.dev.json
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.dll
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\bin\Debug\netcoreapp3.1\Bank Managment System.pdb
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.csprojAssemblyReference.cache
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.csproj.CoreCompileInputs.cache
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.AssemblyInfoInputs.cache
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.AssemblyInfo.cs
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.dll
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.pdb
+D:\HACK\for education\Additional\IT and programing\Projects\C#\Bank Managment System\Bank Managment System\obj\Debug\netcoreapp3.1\Bank Managment System.genruntimeconfig.cache
